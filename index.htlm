@@ -2046,7 +2046,7 @@ Sí. Te dejo un `index.html` completo, en **un único bloque**, pensado para Adr
             */
 
             window.open(
-                "https://wa.me/34600000000?text=" + texto,
+                "https://wa.me/34642800998?text=" + texto,
                 "_blank"
             );
 
