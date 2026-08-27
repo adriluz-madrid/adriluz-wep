@@ -1,8 +1,6 @@
-Sí. Te dejo un `index.html` completo, en **un único bloque**, pensado para Adriluz como electricista autorizado en Madrid y alrededores, con enfoque comercial para conseguir llamadas y contactos. Incluye diseño responsive, navegación, servicios, instalaciones, cuadros eléctricos, iluminación LED, zonas de servicio, contacto y botones de WhatsApp/llamada.
 
-**Importante:** sustituye el teléfono, WhatsApp, email y dirección de ejemplo por los datos reales de Adriluz antes de publicarlo.
 
-```html
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
