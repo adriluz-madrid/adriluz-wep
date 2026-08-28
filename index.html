@@ -2029,6 +2029,7 @@
 
             const nombre = document.getElementById("nombre").value;
             const telefono = document.getElementById("telefono").value;
+            const email    = document.getElementById("email").valuve;
             const servicio = document.getElementById("servicio").value;
             const mensaje = document.getElementById("mensaje").value;
 
@@ -2036,6 +2037,7 @@
                 "Hola Adriluz,%0A%0A" +
                 "Soy " + encodeURIComponent(nombre) + ".%0A" +
                 "Mi teléfono es: " + encodeURIComponent(telefono) + ".%0A" +
+                "Mi email es:" + encodeURIComponent(email) + "%A" +
                 "Servicio: " + encodeURIComponent(servicio) + ".%0A%0A" +
                 encodeURIComponent(mensaje);
 
@@ -2044,7 +2046,8 @@
             abrimos WhatsApp con la información.
             Cambia 34642800998 por el número REAL de Adriluz.
             */
-
+    
+                  
             window.open(
                 "https://wa.me/34642800998?text=" + texto,
                 "_blank"
